@@ -14,7 +14,7 @@ Projeto feito no módulo 01 do Bootcamp-LaunchBase da Rocketseat, para praticar 
 # Clonar o repositório
  $ git clone https://github.com/Theux17/Bootcamp-LaunchBase-Intro.git
 
-# Entrar no repositório
+# Entrar no diretório
  $ cd Bootcamp-Launchbase-Intro
 
 ```
